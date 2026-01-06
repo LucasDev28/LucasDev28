@@ -105,5 +105,8 @@
 </a>
 </p>
 
-<!-- ### 📈 GitHub Contributions -->
+### 📈 GitHub Contributions
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LucasDev28/LucasDev28/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake"/>
+</p>
